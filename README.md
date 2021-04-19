@@ -1,5 +1,5 @@
-Tasca 2: Estructures de dades
+Curs: ITAcademy Data Science
 
-Curs: IT Academy
+Tasca: Esctructures de dades - Tasca 2 (Sprint3)
 
 Alumne: Roger Gallart
